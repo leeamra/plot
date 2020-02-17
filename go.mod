@@ -10,3 +10,5 @@ require (
 	gonum.org/v1/gonum v0.0.0-20180816165407-929014505bf4
 	rsc.io/pdf v0.1.1
 )
+
+go 1.13
